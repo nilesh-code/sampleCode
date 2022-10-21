@@ -2,7 +2,7 @@ import java.util.Arrays;
  import java.util.*;
  import java.util.stream.*; 
 
-public class MyClass{
+public class TimeTask{
 
  public static void main(String args[]) {
 
